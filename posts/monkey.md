@@ -2,7 +2,6 @@
 title: This is my second post
 date: 2021-06-28
 mySpecialNote: This is a note!
-showCatPicture: true
 ---
 
 Ooo, feather! Moving feather! Run at 3 AM. Run at 6 AM.
